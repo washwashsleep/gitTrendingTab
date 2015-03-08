@@ -13,7 +13,8 @@
     "newtab": "gitTrendingTab.html"
   },
   "permissions": [
-    "http://128.199.223.114:4040/"
+    "http://128.199.223.114:4040/",
+    "topSites"
   ],
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
 }
