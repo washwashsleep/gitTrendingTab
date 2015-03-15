@@ -1,12 +1,9 @@
-/*
- * google extension setting files
- */
-
 {
   "manifest_version": 2,
   "name": "gitTrendingTab",
   "description": "This google extension is for git trending",
   "version": "0.0.1",
+  "default_locale": "zh_TW",
   "icons": { "128": "github-icon.png" },
   "author": "washwashsleep",
   "chrome_url_overrides" : {

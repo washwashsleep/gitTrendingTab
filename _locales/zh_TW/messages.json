@@ -1,0 +1,50 @@
+{
+    "application_title": {
+        "message": "洗洗睡分頁",
+        "description": "應用程式名稱"
+    },
+    "application_description": {
+        "message": "洗洗睡分頁是個 Chrome Extension 應用，安裝洗洗睡分頁後，就會變得很想洗洗睡喔！讓我們一起開心的洗洗睡吧！",
+        "description": "應用程式描述"
+    },
+    "facebook_btn": {
+        "message": "FaceBook",
+        "description": "FaceBook"
+    },
+    "yahoo_btn": {
+        "message": "Yahoo",
+        "description": "Yahoo"
+    },
+    "youtube_btn": {
+        "message": "Youtube",
+        "description": "Youtube"
+    },
+    "github_btn": {
+        "message": "Github",
+        "description": "Github"
+    },
+    "google_search_text": {
+        "message": "Google 搜尋...",
+        "description": "Google 搜尋"
+    },
+    "github_search_text": {
+        "message": "Github 搜尋...",
+        "description": "Github 搜尋"
+    },
+    "web_store_link_text": {
+        "message": "應用程式",
+        "description": "應用程式"
+    },
+    "top_sites_link_text": {
+        "message": "常用網站",
+        "description": "常用網站"
+    },
+    "tool_bar_open": {
+        "message": "功能列開啓",
+        "description": "功能列開啓"
+    },
+    "tool_bar_close": {
+        "message": "功能列關閉",
+        "description": "功能列關閉"
+    }
+}
