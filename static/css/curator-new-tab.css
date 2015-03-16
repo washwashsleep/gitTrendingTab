@@ -452,6 +452,7 @@ input[type="submit"] {
 
 .categories td
 {
+/*width:20%;*/
 width:200px;
 text-align: center !important;
 font-size: 23px;
@@ -486,6 +487,10 @@ p.github-description {
   height: 60px;
   line-height: 15px;
   color:#F4FFCD;
+}
+p.github-title {
+  cursor: pointer;
+  color: #FFCC22;
 }
 p.github-title:hover {
     cursor: pointer;
@@ -542,4 +547,25 @@ span.github-icon{
 }
 .explore-marketing-header{
   display: none;
+}
+
+
+p.github-lang {
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+p.github-title {
+height: 46px;
+margin-bottom: 5px;
+margin-top: 5px;
+}
+.categories td{
+    line-height: 100%;
+    overflow: hidden;
+}
+
+p.github-description{
+    margin: 5px 0;
+    padding: 4px 10px;
 }
